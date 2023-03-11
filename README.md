@@ -2,4 +2,4 @@
 
 - hasil
 
-![img](ss1.png)
+![image.png]({img/ss1.png})
